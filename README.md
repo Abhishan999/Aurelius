@@ -61,7 +61,7 @@ Note: This is a **single-file React app**, ideal for quick deployment and demos.
 ### 1. Clone or Download
 ```bash
 git clone https://github.com/Abhishan999/Aurelius
-
+```
 ###2. Run the Project
 
 Simply open the HTML file in your browser:
