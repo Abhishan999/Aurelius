@@ -65,5 +65,5 @@ git clone https://github.com/Abhishan999/Aurelius
 ###2. Run the Project
 
 Simply open the HTML file in your browser:
-
-open aurelius-dashboard.html
+```bash
+open index.html
